@@ -1,0 +1,2 @@
+# Hydrogeological-Analysis-of-Streamflow-and-Baseflow-in-Ontario-and-British-Columbia
+This hydrogeological project analyzes 20 stream gauge stations in Ontario and BC. Using USGS tools, it calculates baseflow hydrographs, long-term baseflow indices, and maps spatial patterns. Unraveling physio-climatic factors influencing baseflow, such as temperature and geology, this project aims for a comprehensive understanding.
